@@ -1,0 +1,2 @@
+# simple-website
+GIT training
